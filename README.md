@@ -2,6 +2,12 @@
 
 resource_parser_url=https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/resource-parser.js
 
+圈X重写
+
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.conf
+
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/youtube.conf
+
 分流规则
 
 https://whatshub.top/rule/AntiAD.list
