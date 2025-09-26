@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/youtube.conf
 
 分流规则
 
-https://whatshub.top/rule/AntiAD.list
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/AntiAD.list
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/Coinglass.list
 
