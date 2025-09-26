@@ -1,6 +1,6 @@
 圈X资源解析器
 
-resource_parser_url=https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/blob/main/resource-parser.js
+resource_parser_url=https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/resource-parser.js
 
 分流规则
 
