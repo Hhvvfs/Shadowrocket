@@ -1,3 +1,7 @@
+圈X资源解析器
+
+resource_parser_url=https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/blob/main/resource-parser.js
+
 分流规则
 
 https://whatshub.top/rule/AntiAD.list
