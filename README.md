@@ -37,3 +37,5 @@ https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/SystemOTA.
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/WeChat.list
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/YouTube.list
+
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/DouYin.list
