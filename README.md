@@ -22,6 +22,8 @@ https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/Apple.list
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/AppleMail.list
 
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/blob/main/Applegape.list
+
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/Binance.list
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/ChatGPT.list
