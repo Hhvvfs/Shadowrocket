@@ -8,6 +8,12 @@ https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.conf
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/youtube.conf
 
+surge重写
+
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/spotifyVIP.module
+
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/
+
 分流规则
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/AntiAD.list
