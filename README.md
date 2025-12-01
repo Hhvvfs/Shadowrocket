@@ -34,6 +34,8 @@ https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/OKX.list
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/Spotify.list
 
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/SpotifyOTA.list
+
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/SystemOTA.list
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/WeChat.list
