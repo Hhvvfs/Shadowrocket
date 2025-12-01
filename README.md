@@ -12,7 +12,7 @@ surge重写
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/spotifyVIP.module
 
-https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/YouTubeAd.sgmodule
 
 分流规则
 
