@@ -6,16 +6,16 @@ resource_parser_url=https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/r
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.yaml
 
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/YouTubeAd.yaml
+
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.module
-
-https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.conf
-
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/YouTubeAd.module
 
-https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/YouTubeAd.yaml
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.conf
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/YouTubeAd.conf
+
 
 分流规则
 
