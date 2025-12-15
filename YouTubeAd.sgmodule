@@ -1,16 +1,24 @@
 #!name = YouTube 去广告（Egern）
-#!desc = 去广告 + 后台播放（Egern 可用）
+#!desc = 去广告 + 后台播放
 #!author = Maasea（Egern 改写）
+#!homepage = https://whatshub.top
 #!icon = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 
 
+[Rewrite]
+^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+?&ctier=L(&.+?),ctier,(.+) 302 $1$2$3
+^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+&oad - reject
+
+
 [Rule]
+DOMAIN,www.youtube.com,REJECT
 DOMAIN-SUFFIX,googlevideo.com,REJECT
 DOMAIN,youtubei.googleapis.com,REJECT
+DOMAIN,s.youtube.com,REJECT
 
 
 [Script]
-youtube.response = http-response ^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|get_watch|guide|account\/get_setting) \
+youtube.response = http-response ^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch) \
 script-path=https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/youtube.response.js \
 requires-body=true \
 binary-body-mode=true \
