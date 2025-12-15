@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.conf
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/youtube.conf
 
-surge重写
+Egern重写
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/spotifyVIP.module
 
