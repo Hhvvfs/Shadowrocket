@@ -2,19 +2,14 @@
 
 resource_parser_url=https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/resource-parser.js
 
-圈X重写
-
+模块重写
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.yaml
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.module
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.conf
 
-https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/youtube.conf
-
-Egern重写
-
-https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/spotifyVIP.module
-
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/YouTubeAd.yaml
-
-https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/YouTubeAd.sgmodule
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/YouTubeAd.module
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/YouTubeAd.conf
 
 分流规则
 
