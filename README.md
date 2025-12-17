@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/YouTubeAd.conf
 
 分流规则
 
-https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/MAC Cleaner
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/Cleaner
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/AntiAD.list
 
