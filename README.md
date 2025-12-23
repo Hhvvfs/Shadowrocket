@@ -15,9 +15,13 @@ https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/YouTubeAd.conf
 
 分流规则
 
-https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/Cleaner
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/CleanerOTA.list
 
-https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/AntiAD.list
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/AntiOTA.list
+
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/SpotifyOTA.list
+
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/AppleOTA.list
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/Coinglass.list
 
@@ -40,10 +44,6 @@ https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/Google.lis
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/OKX.list
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/Spotify.list
-
-https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/SpotifyOTA.list
-
-https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/SystemOTA.list
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/refs/heads/main/WeChat.list
 
