@@ -4,11 +4,21 @@ resource_parser_url=https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/r
 
 模块重写
 
+Loon
+
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/YouTube.Plugin
+
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.module
 
-https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.conf
+Egern
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/YouTubeAd.module
+
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.module
+
+QuanX
+
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.conf
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/YouTubeAd.conf
 
