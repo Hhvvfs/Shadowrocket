@@ -8,7 +8,7 @@ Loon
 
 https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/YouTube.Plugin
 
-https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.module
+https://raw.githubusercontent.com/Hhvvfs/Shadowrocket/main/SpotifyPremium.plugin
 
 Egern
 
